@@ -1,0 +1,59 @@
+html, body {
+	height: 100%;
+}
+body {
+	background: #3c4b55;
+	margin: 0;
+}
+*:focus {outline:none;}
+#container {
+	font-size: 0;
+	height: 100%;
+}
+.left, .right {
+	width: 50%;
+	height: 100%;
+	display: inline-block;
+	font-size: 1rem;
+}
+.right {
+	background: #4a5861;
+}
+textarea {
+	background: transparent;
+	height: 100%;
+	width: 100%;
+	border: 0;
+	color: #c6d4de;
+	font-size: 3rem;
+	box-sizing: border-box;
+}
+#decoded {
+	padding: 1rem 3rem 1rem 1rem;
+}
+#encoded {
+	padding: 1rem 1rem 1rem 3rem;
+}
+button {
+	position: absolute;
+	top: calc(50% - 2rem);
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 1rem;
+	width: 5rem;
+	height: 2rem;
+	border: 0;
+	background: #cecece;
+	cursor: pointer
+}
+button + button {
+	top: calc(50% + 2rem);
+}
+#social {
+	position: absolute;
+	bottom: 0;
+	left: 1rem;
+}
+.fb_iframe_widget {
+	vertical-align: top;
+}
