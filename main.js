@@ -1,4 +1,4 @@
-function encode(text) {
+function encrypt(text) {
     var result = '';
     var num = -1;
     for(var i = 0; i < text.length; i++) {
@@ -29,7 +29,7 @@ function encode(text) {
     return result;
 }
 
-function decode(text) {
+function decrypt(text) {
     var result = '';
     for (var i = 0; i < text.length; i += 4)
     {
@@ -100,6 +100,7 @@ function sr (b, dist) {
     return result;
 }
 
+// Source: https://stackoverflow.com/questions/6972717/how-do-i-create-bit-array-in-javascript
 // ==========================================================================================
 /* BitArray DataType */
 

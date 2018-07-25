@@ -10,3 +10,4 @@ Afwafwaf will encrypt your text into unreadable garbage
 | Hello World   | gfgffgagafagffaagggaaaffgagfagf |
 | Afwafwaf      | wggwgagawawaafggfwfwfafagfwwagag      |
 | Û[ | afwafwaf      |
+
