@@ -1,5 +1,5 @@
 # Afwafwaf
-## The terrible, bad, no good text encryptor
+## The terrible, horrible, no good, very bad text encryptor.
 
 Live example: [https://liljebergxyz.github.io/afwafwaf/](https://liljebergxyz.github.io/afwafwaf/)
 
