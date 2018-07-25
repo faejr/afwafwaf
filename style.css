@@ -34,21 +34,6 @@ textarea {
 #encoded {
 	padding: 1rem 1rem 1rem 3rem;
 }
-button {
-	position: absolute;
-	top: calc(50% - 2rem);
-	left: 50%;
-	transform: translate(-50%, -50%);
-	font-size: 1rem;
-	width: 5rem;
-	height: 2rem;
-	border: 0;
-	background: #cecece;
-	cursor: pointer
-}
-button + button {
-	top: calc(50% + 2rem);
-}
 #social {
 	position: absolute;
 	bottom: 0;
