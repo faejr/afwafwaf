@@ -1,7 +1,7 @@
 # Afwafwaf
 ## The terrible, bad, no good text encoder
 
-Afwafwaf will encode your test into unreadable garbage
+Afwafwaf will encode your text into unreadable garbage
 
 | Your text        | Encoded by Afwafwaf      |
 | ------------- |-------------|
